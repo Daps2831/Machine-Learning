@@ -1,1 +1,1 @@
-Tugas UTS
+jawaban Tugas UTS regresi,klasifikasi,culstering
